@@ -26,6 +26,7 @@ Copy the example config to your MagicMirror config file:
     name: 'Optional Car Name',
     username: 'your-bluelink-email',
     password: "your-bluelink-password",
+    brand: "kia" or "hyundai",
     region: 'EU',
     pin: '0123',
     refreshInterval:  1000 * 60 * 60, // 60 minutes,

@@ -15,7 +15,8 @@ Module.register("MMM-Bluelinky",{
 		wakeOnModuleLoad: false,
 		wakeOnRefresh: false,
 		showLastUpdated: true,
-		region: 'US',
+		brand: 'kia',
+		region: 'EU',
 	},
 
 	// Define required scripts.

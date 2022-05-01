@@ -1,7 +1,7 @@
 'use strict';
 
 /* Magic Mirror
- * Module: MMM-Tesla2
+ * Module: MMM-Bluelinky
  *
  * MIT Licensed.
  */
@@ -22,6 +22,7 @@ module.exports = NodeHelper.create({
     const config = {
       username: this.config.username,
       password: this.config.password,
+      brand: this.config.brand,
       region: this.config.region,
       pin: this.config.pin,
     };
